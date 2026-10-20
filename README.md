@@ -18,4 +18,20 @@ Students often receive assignment information through different course pages, an
 - Identify overdue assignments that are still incomplete.
 
 ## Example Use
-A student adds a programming assignment and a research paper from two different courses. The tracker displays the
+A student adds a programming assignment and a research paper from two different courses. The tracker displays the assignment with the earlier deadline first. After submitting it, the student marks it complete and continues tracking the remaining work.
+
+## Initial Scope
+The first version would support one student managing assignments manually. Shared accounts, automatic imports from course websites, and notifications are outside the initial scope.
+
+## Planned Documents
+- `requirements.md`: Functional requirements and acceptance criteria.
+- `milestones.md`: Development stages and completion goals.
+- `CONTRIBUTING.md`: Guidelines for branches, commits, and pull requests.
+
+## Version Control Approach
+Project changes will be organized into focused commits. Documentation updates will be developed on separate branches and proposed through pull requests before being merged into the main branch.
+
+## Learning Resource
+Git for Professionals Tutorial – Tools & Concepts for Mastering Version Control with Git, taught by Tobias Günther on freeCodeCamp.org.
+
+https://www.youtube.com/watch?v=Uszj_k0DGsg
